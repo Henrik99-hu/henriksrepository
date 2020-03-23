@@ -1,0 +1,1 @@
+Here, we will be able to upload news<?php /**PATH C:\xampp\htdocs\BackendProject\resources\views/AddNews.blade.php ENDPATH**/ ?>
